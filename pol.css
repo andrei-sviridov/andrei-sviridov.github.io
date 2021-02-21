@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
+h1{
+	margin: 0;
+	padding: 5px 0 50px;
+	font-family: Yanone Kaffeesatz;
+	font-size: 70px;
+}
+img{
+	display: block;
+	border: 10px solid black;
+	margin: 0 20px 40px 0;
+	
+}
+.mail{
+	font-family: Comic Neue;
+	font-weight: bold;
+	font-size: 50px;
+	margin: 0;
+}
+.text{
+
+	font-family: Comfortaa;
+	font-size: 30px;
+	border: 5px solid black;
+	margin: 0 ;
+	line-height: 40px;
+	max-width: 600px;
+	
+	min-height: 400px;
+	vertical-align: middle;
+
+}
+#d1{
+	float: left;
+}
+#d2{
+	float: left;
+}
+#d3{
+	float: left;
+}
