@@ -1,1 +1,1 @@
-# https-andrei-sviridov.github.io-
+# https-andrei-sviridov.github.io
